@@ -1,0 +1,15 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:edgerun/skippy-core
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:edgerun/skippy-kubernetes
+[submodule "skippy-kubernetes"]
+	path = skippy-kubernetes
+	url = git@github.com:edgerun/skippy-kubernetes
+[submodule "skippy-core"]
+	path = skippy-core
+	url = git@github.com:edgerun/skippy-core
+[submodule "faas-sim"]
+	path = faas-sim
+	url = git@github.com:edgerun/faas-sim
