@@ -13,3 +13,6 @@
 [submodule "faas-sim"]
 	path = faas-sim
 	url = git@github.com:edgerun/faas-sim
+[submodule "skippy-daemon"]
+	path = skippy-daemon
+	url = git@github.com:edgerun/skippy-daemon

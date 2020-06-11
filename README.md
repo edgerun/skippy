@@ -5,6 +5,7 @@ Skippy is a scheduling system for serverless platforms that improves function
 placement on edge infrastructure.
 
 * skippy-core: The core system containing the scheduling logic and API
+* skippy-daemon: Daemon to scan and report cluster node capabilities
 * skippy-kubernetes: The bindings for running Skippy alongside Kubernetes
 * faas-sim: A FaaS simulator used for optimizing scheduling parameters
 
